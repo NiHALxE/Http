@@ -1,0 +1,7 @@
+aiohttp
+pyTelegramBotAPI
+requests
+Flask
+pysocks
+requests
+python-telegram-bot
